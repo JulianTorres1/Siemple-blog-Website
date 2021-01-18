@@ -1,0 +1,49 @@
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+#title-post {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 35px;
+    padding-top: 30px;
+
+}
+
+#title-post-all {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 35px;
+    padding-top: 30px;
+    padding-left: 50px;
+
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 17px;
+}
+
+
+#post-time {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 14px;
+    padding-left: 80%;
+    padding-bottom: 5px;
+    
+}
+footer {
+    background: rgb(189,189,189);
+    background: -moz-linear-gradient(90deg, rgba(189,189,189,1) 0%, rgba(255,255,255,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(189,189,189,1) 0%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(90deg, rgba(189,189,189,1) 0%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#bdbdbd",endColorstr="#ffffff",GradientType=1);  
+}
+
+nav {
+    border-bottom: 2px solid #C5C5C5;
+}
